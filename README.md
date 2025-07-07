@@ -26,23 +26,19 @@
 
 ## 💼 Experience
 
-### **Team Lead – PlanetSpark** (May 2023 – Nov 2023) | Gurugram  
-- Lead a team of 8–10 members, driving weekly revenue across multiple sales funnels.
+### **Team Lead – PlanetSpark** (Jan 2023 – Nov 2023) | Gurugram  
+- Utilized SQL and Advanced Excel to develop and maintain performance dashboards for a
+team of 6 Business Development Executives, enabling real-time tracking of KPIs and
+increasing team productivity by 20%. 
 - Maintained performance dashboards and tracked metrics including RPL, L2D, D2C.
-- Created and managed Excel-based trackers for funnel performance and revenue insights.
+- Analyzed sales funnel metrics including RPL (Revenue Per Lead), L2D (Lead to Deal), and D2C (Deal to Conversion) using Excel and SQL, providing actionable insights that led
+to a 15% improvement in lead conversion rate and enhanced marketing ROI. 
 
-### **Sr. Business Development Executive – PlanetSpark** (Jan 2023 – May 2023) | Gurugram  
-- Managed customer relationships and led sales initiatives.
-- Conducted negotiations and executed effective marketing strategies.
-- Maintained consistent CRM usage to ensure pipeline visibility.
 
-### **Sr. Business Development Executive – Vedantu** (Jan 2021 – Oct 2022) | Bangalore  
-- Focused on direct sales, presentations, and revenue optimization.
-- Leveraged Salesforce for tracking KPIs and team targets.
-
-### **Business Development Executive – Vedantu** (Oct 2020 – Jan 2021) | Bangalore  
-- Conducted CRM-based outreach and presentations to drive sales conversions.
-
+### **MIS Executive – Vedantu** (Oct 2020 – Oct 2021) | Bangalore  
+- Performed sales data analysis using Excel and SQL to identify client behavior patterns and optimize deal strategies, resulting in successful B2B negotiations and increased revenue. 
+- Collaborated with cross-functional teams (sales, marketing, and operations) to deliver customer-centric solutions, leveraging data insights to improve sales processes and
+support business growth.
 ---
 
 ## 🔗 Connect with Me
