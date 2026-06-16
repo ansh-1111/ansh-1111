@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anshul Pundhir</h1>
+
 <h3 align="center">
-Data Analyst • BI Developer • Tableau • SQL • Business Intelligence
+Data Analyst | BI Developer | Tableau | SQL | Business Intelligence
 </h3>
 
 <h3 align="center">
-Building Data-Driven Solutions with Analytics, Automation, AI & Visualization
+Transforming Data into Business Insights through Analytics, Automation & AI
 </h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0D8ABC&lines=Turning+Data+into+Decisions...;Data+Science+%7C+Python+%7C+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0D8ABC&lines=Turning+Data+into+Decisions...;Tableau+%7C+SQL+%7C+Business+Intelligence;AI+Automation+%7C+n8n+%7C+LLMs;Data+Visualization+%7C+Analytics)](https://git.io/typing-svg)
 
 ---
 
