@@ -7,12 +7,7 @@ Data Analyst | BI Developer | Tableau | SQL | Business Intelligence
 <h3 align="center">
 Transforming Data into Business Insights through Analytics, Automation & AI
 </h3>
-## 📊 Dashboard Showcase
 
-<p align="center">
-  <img src="images/hul-sales-dashboard.png" width="48%" alt="HUL Sales Dashboard"/>
-  <img src="images/kpi-tracking-dashboard.png" width="48%" alt="KPI Tracking Dashboard"/>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D8ABC&center=true&vCenter=true&width=900&lines=Turning+Data+into+Decisions...;Tableau+%7C+SQL+%7C+Business+Intelligence;AI+Automation+%7C+n8n+%7C+LLMs;Data+Visualization+%7C+Analytics" />
 </p>
