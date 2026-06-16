@@ -20,6 +20,7 @@
 - 🌱 Currently exploring **AI, Generative AI, Agentic AI, LangChain, and LLM Applications**
 - 👨‍💻 Portfolio: https://github.com/ansh-1111/ansh-1111
 - 📫 Reach me at **anshulofficial1111@gmail.com**
+- 📈 Tableau Profile- **https://public.tableau.com/app/profile/anshul.pundhir/vizzes**
 - 💼 Open to opportunities in **Data Analytics, Business Intelligence, Tableau Development, and Data Visualization**
 
 ## 💼 Experience
