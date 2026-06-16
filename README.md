@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed" alt="Profile Banner" width="80%" style="height: 450px;">
 </p>
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 **B.E. in Computer Science** – Chandigarh University (2016–2020)
 - 💼 **Data Analyst | BI Developer** with experience in Tableau, SQL, Oracle Database, REST API integrations, and enterprise reporting solutions
