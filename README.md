@@ -26,6 +26,20 @@
 
 ## 💼 Experience
 
+### **Analyst – Data Insights | ScatterPie Analytics** (Nov 2025 – Present) | Bengaluru
+
+#### **Data Analyst** (Nov 2025 – Mar 2026)
+- Translated complex financial and operational data into actionable business insights using SQL, PostgreSQL, and Tableau dashboards.
+- Developed interactive reports and KPI dashboards to support strategic consulting initiatives and data-driven decision-making across banking and financial domains.
+- Performed data validation, analysis, and reporting to improve visibility into business performance and operational metrics.
+
+#### **Analyst – Data Insights** (Apr 2026 – Present)
+- Integrated and consolidated data from REST APIs, Opera Symphony, and Oracle Database into centralized reporting datasets using SQL-based ETL and data modeling techniques.
+- Designed and developed scalable Tableau dashboards, improving data accessibility, operational visibility, and executive reporting capabilities.
+- Automated reporting workflows and data refresh processes, reducing manual effort and enabling faster business decision-making.
+- Worked with Tableau Cloud, Tableau Bridge, and Tableau Prep to manage data pipelines, publish dashboards, and ensure seamless data synchronization.
+- Developed SQL queries, transformations, and data models to support reporting, analytics, and business intelligence requirements.
+
 ### **Team Lead – PlanetSpark** (Jan 2023 – Nov 2023) | Gurugram  
 - Utilized SQL and Advanced Excel to develop and maintain performance dashboards for a
 team of 6 Business Development Executives, enabling real-time tracking of KPIs and
