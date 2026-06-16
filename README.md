@@ -188,10 +188,13 @@ support business growth.
 </p>
 ## 📚 Currently Learning
 
-- Enhancing skills in **Data Analytics & AI**
-- Exploring **Generative AI, LangChain, and LLMs**
-
+- 🤖 Advanced AI & Generative AI Applications
+- 🔗 LangChain, AI Agents & Agentic Workflows
+- ⚡ n8n Workflow Automation & AI Integrations
+- 🧠 Advanced Machine Learning Concepts & Model Optimization
+- 🚀 LLMs, RAG Systems, Prompt Engineering & AI Automation
+- 📊 Advanced Data Analytics & Business Intelligence Solutions
 ---
 
-🚀 **From B2C sales to Data Science—applying business instincts to machine learning.**
-✨ Let’s connect and create meaningful impact together!
+---
+🚀 Data Analyst & BI Developer passionate about transforming complex data into actionable business insights through SQL, Tableau, AI, and automation. Exploring Agentic AI, n8n, and advanced analytics to build intelligent data-driven solutions.
