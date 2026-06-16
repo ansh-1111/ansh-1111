@@ -57,7 +57,7 @@ support business growth.
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/anshul.pundhir/vizzes" target="blank"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/43b08ca4-e522-4bbe-966a-1d553fa469f2" />
+  <a href="https://public.tableau.com/app/profile/anshul.pundhir/vizzes" target="blank"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/43b08ca4-e522-4bbe-966a-1d553fa469f2" /></a>
   <a href="https://www.linkedin.com/in/anshul-analytics/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:anshulofficial1111@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40" /></a>
   <a href="https://github.com/ansh-1111" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" height="30" width="40" /></a>
