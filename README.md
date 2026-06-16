@@ -53,6 +53,31 @@ support business growth.
 
 ##  Skills & Technologies  
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> -->
+<tr>
+  <td><strong>Business Intelligence</strong></td>
+  <td>
+    Tableau,
+    Tableau Cloud,
+    Tableau Bridge,
+    Tableau Prep,
+    Dashboard Development,
+    KPI Reporting,
+    Data Visualization
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Data Engineering & Integration</strong></td>
+  <td>
+    REST APIs,
+    Oracle Database,
+    PostgreSQL,
+    Data Modeling,
+    ETL,
+    Data Transformation,
+    Excel Macros
+  </td>
+</tr>
 
 <table>
   <tr>
