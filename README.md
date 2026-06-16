@@ -168,26 +168,24 @@ support business growth.
 
 </table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansh-1111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-1111&layout=compact&theme=radical" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh-1111&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-1111&theme=radical" alt="GitHub Streak">
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansh-1111" alt="GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ansh-1111&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-1111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-1111&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ansh-1111&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ansh-1111&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 ## 📚 Currently Learning
 
 - Enhancing skills in **Data Analytics & AI**
