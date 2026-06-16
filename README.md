@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Pundhir</h1>
 <h3 align="center">Data Science | Machine Learning | AI Enthusiast</h3>
-<h3 align="center">Aspiring Data Science Professional navigating the Forever Learning Curve</h3>
+<h3 align="center">Data Science Professional navigating the Forever Learning Curve</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0D8ABC&lines=Turning+Data+into+Decisions...;Data+Science+%7C+Python+%7C+Machine+Learning)](https://git.io/typing-svg)
 
@@ -9,20 +9,18 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed" alt="Profile Banner" width="80%" style="height: 450px;">
 </p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 **B.E. in Computer Science** – Chandigarh University (2016–2020)
-- 💼 3+ years of experience in **Sales, Business Development, and Team Leadership**
-- 📊 Proven expertise in **Revenue Generation, CRM Platforms, Negotiation, and Project Management**
-- 🌱 Currently transitioning into **Data Science** to blend analytical skills with business expertise
-- 🛠️ Skilled in **Team Management, Pipeline Management, and Data-Driven Decision Making**
+- 💼 **Data Analyst | BI Developer** with experience in Tableau, SQL, Oracle Database, REST API integrations, and enterprise reporting solutions
+- 📊 Building scalable dashboards and automated reporting solutions using **Tableau Cloud, Tableau Bridge, Tableau Prep, and SQL**
+- 🔄 Experienced in integrating and transforming data from **Opera Symphony, REST APIs, Oracle Database, and PostgreSQL**
+- 📈 Passionate about turning complex business data into actionable insights and decision-ready analytics
+- 🤝 Strong blend of **Business Operations, Analytics, Stakeholder Management, and Data Visualization**
+- 🌱 Currently exploring **AI, Generative AI, Agentic AI, LangChain, and LLM Applications**
 - 👨‍💻 Portfolio: https://github.com/ansh-1111/ansh-1111
-- 📫 Reach me at **anshulofficial1111@gmail.com** | 📞 **+91 7906701349**
-
----
+- 📫 Reach me at **anshulofficial1111@gmail.com**
+- 💼 Open to opportunities in **Data Analytics, Business Intelligence, Tableau Development, and Data Visualization**
 
 ## 💼 Experience
 
