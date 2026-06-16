@@ -91,101 +91,82 @@ support business growth.
 </p>
 ---
 
-##  Skills & Technologies  
-<!-- <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> -->
-<tr>
-  <td><strong>Business Intelligence</strong></td>
-  <td>
-    Tableau,
-    Tableau Cloud,
-    Tableau Bridge,
-    Tableau Prep,
-    Dashboard Development,
-    KPI Reporting,
-    Data Visualization
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Data Engineering & Integration</strong></td>
-  <td>
-    REST APIs,
-    Oracle Database,
-    PostgreSQL,
-    Data Modeling,
-    ETL,
-    Data Transformation,
-    Excel Macros
-  </td>
-</tr>
+## 🛠️ Skills & Technologies
 
 <table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-    </td>
-    <!-- <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="130"></td>-->
-  </tr>
-  <tr>
-    <td><strong>Machine Learning</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      <img src="https://img.shields.io/badge/Neural%20Networks-008080?style=flat&logo=neural-network&logoColor=white" alt="Neural Networks">
-    </td>
-    <!-- <td><img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="130"></td>-->
-  </tr>
+
 <tr>
-  <td><strong>Data Analysis</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
-  </td>
-  <!-- <td><img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="130"></td>-->
+<td><strong>Business Intelligence</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau%20Cloud-0176D3?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau%20Bridge-0176D3?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau%20Prep-0176D3?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Dashboard%20Development-1E88E5?style=flat">
+<img src="https://img.shields.io/badge/KPI%20Reporting-43A047?style=flat">
+</td>
 </tr>
 
-  <tr>
-    <td><strong>Visualization</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white" alt="Seaborn">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
-    </td>
-    <!-- <td><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="130"></td>-->
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-    </td>
-    <!-- <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="130"></td>-->
-  </tr>
-  <tr>
-    <td><strong>Deployment</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-    </td>
-    <!-- <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="130"></td>-->
-  </tr>
+<tr>
+<td><strong>Data Analytics</strong></td>
+<td>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Modeling-FF9800?style=flat">
+<img src="https://img.shields.io/badge/Data%20Visualization-009688?style=flat">
+<img src="https://img.shields.io/badge/Business%20Analytics-673AB7?style=flat">
+<img src="https://img.shields.io/badge/Reporting%20Automation-795548?style=flat">
+</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td><strong>Data Integration</strong></td>
+<td>
+<img src="https://img.shields.io/badge/REST%20API-0097A7?style=flat">
+<img src="https://img.shields.io/badge/ETL-6A1B9A?style=flat">
+<img src="https://img.shields.io/badge/Data%20Transformation-5D4037?style=flat">
+<img src="https://img.shields.io/badge/Opera%20Symphony-1976D2?style=flat">
+</td>
+</tr>
+
+<tr>
+<td><strong>Programming</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Excel%20Macros-217346?style=flat&logo=microsoft-excel&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td><strong>Reporting & Productivity</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Stakeholder%20Reporting-00897B?style=flat">
+<img src="https://img.shields.io/badge/Business%20Insights-5E35B1?style=flat">
+</td>
+</tr>
+
+<tr>
+<td><strong>Version Control</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</td>
+</tr>
+
 </table>
-<!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"> -->
-<!-- Data science GIF -->
-<!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
-
----
-
-<!-- Previous table content stays unchanged -->
-
----
 
 ## 📊 GitHub Stats
 
